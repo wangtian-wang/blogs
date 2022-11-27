@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as e,b as n}from"./app.7a695bca.js";const D=JSON.parse('{"title":"Event","description":"","frontmatter":{},"headers":[],"relativePath":"js/event.md"}'),o={name:"js/event.md"},l=n("",25),t=[l];function r(i,p,c,h,d,u){return e(),s("div",null,t)}const F=a(o,[["render",r]]);export{D as __pageData,F as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as i,b as l}from"./app.7a695bca.js";const k=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tool/treeShaking.md"}'),r={name:"tool/treeShaking.md"},t=l("",8),o=[t];function d(n,s,h,c,u,p){return i(),a("div",null,o)}const m=e(r,[["render",d]]);export{k as __pageData,m as default};

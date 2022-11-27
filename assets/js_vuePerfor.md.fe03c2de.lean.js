@@ -1,1 +1,0 @@
-import{_ as e,c as l,o as i,b as o}from"./app.71d07808.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"js/vuePerfor.md"}'),c={name:"js/vuePerfor.md"},t=o("",2),a=[t];function d(r,s,_,u,n,p){return i(),l("div",null,a)}const h=e(c,[["render",d]]);export{f as __pageData,h as default};

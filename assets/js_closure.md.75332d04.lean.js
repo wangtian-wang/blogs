@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,b as t}from"./app.71d07808.js";const b=JSON.parse('{"title":"closure","description":"","frontmatter":{},"headers":[],"relativePath":"js/closure.md"}'),r={name:"js/closure.md"},c=t("",16),s=[c];function h(d,i,n,l,p,u){return o(),a("div",null,s)}const k=e(r,[["render",h]]);export{b as __pageData,k as default};

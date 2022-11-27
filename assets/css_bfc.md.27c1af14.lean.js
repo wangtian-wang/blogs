@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r,b as d}from"./app.71d07808.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"css/bfc.md"}'),n={name:"css/bfc.md"},i=d("",54),p=[i];function t(h,o,c,s,l,x){return r(),a("div",null,p)}const u=e(n,[["render",t]]);export{_ as __pageData,u as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r,b as d}from"./app.71d07808.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"doc"},"headers":[],"relativePath":"css/renderlayout.md"}'),n={name:"css/renderlayout.md"},i=d("",54),t=[i];function p(o,h,c,s,l,x){return r(),a("div",null,t)}const u=e(n,[["render",p]]);export{_ as __pageData,u as default};

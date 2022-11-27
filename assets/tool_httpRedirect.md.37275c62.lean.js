@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,b as l}from"./app.7a695bca.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tool/httpRedirect.md"}'),s={name:"tool/httpRedirect.md"},o=l("",15),r=[o];function n(p,d,c,i,h,T){return a(),e("div",null,r)}const D=t(s,[["render",n]]);export{y as __pageData,D as default};

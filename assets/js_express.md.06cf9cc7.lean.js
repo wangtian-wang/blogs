@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,b as l}from"./app.7a695bca.js";const A=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"js/express.md"}'),p={name:"js/express.md"},o=l("",47),e=[o];function c(r,t,y,D,F,C){return n(),a("div",null,e)}const d=s(p,[["render",c]]);export{A as __pageData,d as default};
