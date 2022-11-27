@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,b as l}from"./app.71d07808.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"css/baselayout.md"}'),p={name:"css/baselayout.md"},o=l("",31),e=[o];function t(c,r,F,y,D,i){return n(),a("div",null,e)}const h=s(p,[["render",t]]);export{d as __pageData,h as default};
